@@ -1,0 +1,24 @@
+# 1. Секретні дані (Найважливіше!)
+.env
+
+# 2. Віртуальне середовище Python
+venv/*
+.venv/
+env/
+
+# 3. Кеш та тимчасові файли Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# 4. Файли Docker (якщо будуть логи чи конфіги)
+.docker/
+
+# 5. Специфічні файли ОС
+.DS_Store
+Thumbs.db
+
+# 6. Файли IDE (VS Code, PyCharm)
+.vscode/
+.idea/
