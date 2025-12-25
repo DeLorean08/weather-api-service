@@ -59,6 +59,6 @@ Process: The backend filters the raw data for specific time slots (12:00 PM), fo
 Store: The processed data is cached in Redis and then rendered in the browser.
 
 
-![alt text]({20985AFC-0A49-4776-B1BE-67A6CF27EA4E}.png)
-![alt text]({F505A180-6543-4B2A-B418-08FE9A2960DA}.png)
-![alt text]({A4CC6F11-6E08-4E61-9C66-71187D16B7C3}.png)
+![tokio_weather]({20985AFC-0A49-4776-B1BE-67A6CF27EA4E}.png)
+![error_hello_world]({F505A180-6543-4B2A-B418-08FE9A2960DA}.png)
+![jakota_weather]({A4CC6F11-6E08-4E61-9C66-71187D16B7C3}.png)
